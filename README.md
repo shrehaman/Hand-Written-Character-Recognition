@@ -17,7 +17,7 @@ Key features of the Handwritten Character Recognition project include:
 The Handwritten Character Recognition project aims to contribute to the field of optical character recognition (OCR) by providing an advanced machine learning model that achieves better results in recognizing handwritten characters. The improved accuracy and robustness of the model can find applications in various domains, including digit recognition, document processing, and automation tasks that involve handwritten inputs.
 
 
-
+Project - 18
 
 ## Table of Contents
 - [Conclusion](#conclusion)
